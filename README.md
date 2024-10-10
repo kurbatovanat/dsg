@@ -5,4 +5,4 @@
 
 vid_maket.txt - неформальное описание
 treb_maket.txt - формальное описание
-use case
+use_maket.txt - use case
