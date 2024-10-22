@@ -6,8 +6,7 @@
 vid_maket.txt - неформальное описание
 treb_maket.txt - формальное описание
 use_maket.txt - use case
-use_maket.txt - use case
-*.html - html-страницы макета (6 файлов)
+.html - html-страницы макета (6 файлов)
 
 
 
@@ -15,6 +14,3 @@ use_maket.txt - use case
 
 
 
-
-
-М
